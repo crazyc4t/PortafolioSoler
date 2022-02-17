@@ -600,11 +600,14 @@ INPUT ./images//english.jpeg
 INPUT ./images//english.jpeg
 INPUT ./images//english.jpeg
 INPUT ./images//english.jpeg
+INPUT ./images//english.jpeg
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT ./images//business.jpeg
 INPUT ./images//business.jpeg
 INPUT ./images//business.jpeg
 INPUT ./images//business.jpeg
+INPUT ./images//business.jpeg
+INPUT ./images//lenguaje.jpeg
 INPUT ./images//lenguaje.jpeg
 INPUT ./images//lenguaje.jpeg
 INPUT ./images//lenguaje.jpeg
@@ -613,6 +616,8 @@ INPUT ./images//filo.jpeg
 INPUT ./images//filo.jpeg
 INPUT ./images//filo.jpeg
 INPUT ./images//filo.jpeg
+INPUT ./images//filo.jpeg
+INPUT ./images//historia.jpeg
 INPUT ./images//historia.jpeg
 INPUT ./images//historia.jpeg
 INPUT ./images//historia.jpeg
@@ -621,6 +626,8 @@ INPUT ./images//biologia.jpeg
 INPUT ./images//biologia.jpeg
 INPUT ./images//biologia.jpeg
 INPUT ./images//biologia.jpeg
+INPUT ./images//biologia.jpeg
+INPUT ./images//quimica.jpeg
 INPUT ./images//quimica.jpeg
 INPUT ./images//quimica.jpeg
 INPUT ./images//quimica.jpeg
@@ -629,6 +636,8 @@ INPUT ./images//math.jpeg
 INPUT ./images//math.jpeg
 INPUT ./images//math.jpeg
 INPUT ./images//math.jpeg
+INPUT ./images//math.jpeg
+INPUT ./images//fisi.jpeg
 INPUT ./images//fisi.jpeg
 INPUT ./images//fisi.jpeg
 INPUT ./images//fisi.jpeg
