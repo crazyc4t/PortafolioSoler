@@ -3,6 +3,13 @@
   background-color: #353b45;
   color: whitesmoke;
 } 
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 /* start css.sty */
 .cmr-17x-x-120{font-size:170%;}
 .cmr-12x-x-120{font-size:120%;}
